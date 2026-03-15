@@ -1,10 +1,10 @@
-# Agrirent 🚜
+# Agrirent 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18%2B-blue.svg)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple.svg)](https://getbootstrap.com/)
 
-## 🌾 Overview
+##  Overview
 
 **Agrirent** is a modern, responsive web application built with React.js for discovering, browsing, and renting agricultural equipment. Farmers and renters can explore tractors, harvesters, implements, and more with detailed listings, user authentication, and intuitive navigation.
 
@@ -12,7 +12,7 @@ Perfect for agritech enthusiasts, this mini-project demonstrates full-stack fron
 
 ![Agrirent Screenshot](screenshots/home.png) <!-- Add screenshots here -->
 
-## ✨ Features
+##  Features
 
 - **Home Dashboard**: Welcome page with featured equipment.
 - **Equipment Catalog**: Browse all available rentals with search/filter.
@@ -30,7 +30,7 @@ Perfect for agritech enthusiasts, this mini-project demonstrates full-stack fron
 - **Build**: Create React App
 - **Testing**: React Testing Library
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repo**:
    ```
@@ -84,11 +84,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 This project is [MIT licensed](LICENSE).
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 Built during React learning journey. Inspired by agritech platforms.
 
 ---
 
-⭐ **Star the repo if helpful!** Questions? Open an issue.
+ **Star the repo if helpful!** Questions? Open an issue.
 
